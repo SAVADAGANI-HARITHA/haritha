@@ -1,9 +1,13 @@
 package day1;
-import java.util.Scanner;
-public class question8 {
+import java.util.Scanner;                                                          
+public class QUESTION9 {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		char ch=sc.next().charAt(0);
-		 ch=(int) value;
-		System.out.println(ch);
+		int ch=sc.nextInt();
+		char value=(char)ch;
+		System.out.println(value);
+		
+	}
+
+}
